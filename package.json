@@ -54,7 +54,7 @@
     "vinyl-source-stream": "^1.1.0",
     "vinyl-transform": "^1.0.0",
     "watchify": "^3.9.0",
-    "webworkify": "^1.4.0"
+    "webworkify": "^1.5.0"
   },
   "dependencies": {
     "iterative-greedy": "1.0.0"
